@@ -6,5 +6,4 @@ function convert(){
 var fsub = f.value-32;
 var fdiv = fsub/1.8;
     c.innerHTML=fdiv+"°C";
-document.getElementById("img1").src="/img/smi2.PNG";
 }
